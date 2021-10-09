@@ -1,0 +1,3 @@
+El diseño de programa utilizado obtuvo mejores resultados con menos threads, por lo que decidí mantenerlos en menos de 10 de acuerdo a las pruebas, 
+el efecto de blurring se aprecia mejor en las imágenes pequeñas debido a que es una máscara de 9 x 9, aun así, el programa también funciona en las 
+imágenes de gran pixelaje aunque el efecto es menor.
